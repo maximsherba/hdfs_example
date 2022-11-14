@@ -1,3 +1,5 @@
+//Example from Vadim
+
 import org.apache.hadoop.conf.Configuration
 import org.apache.hadoop.fs.{FileSystem, Path => HPath}
 import org.apache.hadoop.io.IOUtils
